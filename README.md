@@ -1,2 +1,1 @@
-# Viterbi_decoder
-A viterbi decoder for convolutional encoder
+Repo of my course projects and assignments
